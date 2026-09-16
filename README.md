@@ -1,5 +1,7 @@
 # OpenStudy-AI
 
+[![CI](https://github.com/bunufod-netizen/OpenStudy-AI-DEMO/actions/workflows/ci.yml/badge.svg)](https://github.com/bunufod-netizen/OpenStudy-AI-DEMO/actions/workflows/ci.yml)
+
 > A focused learning workspace for organizing projects, subjects, notes, tasks, study sessions, and AI-assisted revision.
 
 OpenStudy-AI is a full-stack demo application built with Django REST Framework and React/Vite. It is designed for students who want one private workspace for planning study work, capturing knowledge, tracking progress, and turning notes into revision material.
